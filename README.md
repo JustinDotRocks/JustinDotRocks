@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### Dis's it by'.
+Hey I'm Justin Smith, I'm a software developer and I like to build software.
 <!--
 **JustinDotRocks/JustinDotRocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
