@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hey I'm Justin Smith, I'm a self-taught web developer with a passion for frontend development. My focus is on creating intuitive and engaging user experiences using the latest technologies. While I also have backend skills, I mainly use them to complement my frontend work. My stack of choice includes React, Redux, Node, and GraphQL.
+Hey I'm Justin Smith, I'm a self-taught web developer with a passion for frontend development. My focus is on creating intuitive and engaging user experiences using the latest technologies. While I also have backend skills, I mainly use them to complement my frontend work. My stack of choice includes React, Redux, Node, PostgreSQL and GraphQL.
 <!--
 **JustinDotRocks/JustinDotRocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
