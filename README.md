@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hey I'm Justin Smith, I'm a self-taught web developer with a passion for frontend development. My focus is on creating intuitive and engaging user experiences using the latest technologies. While I also have backend skills, I mainly use them to complement my frontend work. My stack of choice includes React, Redux, Node, PostgreSQL and GraphQL.
+Hey I'm Justin Smith, I'm a self-taught web developer with a passion for creating impactful solutions. I'm currently enrolled in the GetCoding program to hone my development skills, network, and gain insight, My focus is on developing intuitive and engaging user experiences using the latest technologies. My stack of choice includes React, Redux, Node, PostgreSQL and GraphQL.
 <!--
 **JustinDotRocks/JustinDotRocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,8 +27,7 @@ Key:
 
 | **Status** | **Year** | **Course**                                                                                                                                                                                            | Notebook                                                                                          | **Author**                                               | **Provider** |
 |------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------|
-| 💻         | 2024     | [GetCoding](https://www.getcoding.ca/)                                                                                          | [📔 ](<>)                                            | Jan Mertlik & Sahand Seifi
-                                              | Udemy  |
+| 💻         | 2024     | [GetCoding](https://www.getcoding.ca/)                                                                                          | [📔 ](<>)                                            |  Jan Mertlik &  Sahand Seifi                                              | GetCoding  |
 | 💻         | 2023     | [Complete React Native in 2023: Zero to Mastery (with Hooks)](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)                                                                                          | [📔 ](<>)                                            | Andrei Neagoie &  Mo Binni                                              | Udemy  |
 | ⏰          | ?     | [?](?)                                                       |                                                                                                   |?                                          | ?  |
 | ⏰          | ?     | [?](?)                                     |                                                                                                   |?                                              | ?  |
