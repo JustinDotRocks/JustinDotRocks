@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hey I'm Justin Smith, I'm a self-taught web developer with a passion for creating impactful solutions. I'm currently enrolled in the GetCoding program to hone my development skills, network, and gain insight, My focus is on developing intuitive and engaging user experiences using the latest technologies. My stack of choice includes React, Redux, Node, PostgreSQL and GraphQL.
+Hey, I'm Justin Smith, I'm a self-taught web developer with a passion for creating impactful solutions. I'm currently enrolled in the GetCoding program to hone my development skills, network, and gain insight into the industry from professionals. My focus is on developing intuitive and engaging user experiences using the latest technologies. My stack of choice includes React, styled-components, NodeJS, PostgreSQL and GraphQL.
 <!--
 **JustinDotRocks/JustinDotRocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
