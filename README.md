@@ -41,9 +41,6 @@ I'm a web developer enrolled in the **GetBuilding** program, transitioning from 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
-## 📫 Reach Out At
-- 📧 Email: [justindotrocks@gmail.com](mailto:justindotrocks@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/justinfsmith0](https://www.linkedin.com/in/justinfsmith0/)
 
 ## 📊 GitHub Stats
 ![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justindotrocks&show_icons=true&theme=default)
