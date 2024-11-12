@@ -1,72 +1,54 @@
-### Hi there 👋
-Hey, I'm Justin Smith, I'm a self-taught web developer with a passion for creating impactful solutions. I'm currently enrolled in the GetCoding program to hone my development skills, network, and gain insight into the industry from professionals. My focus is on developing intuitive and engaging user experiences using the latest technologies. My stack of choice includes React, styled-components, NodeJS, PostgreSQL and GraphQL.
+# Hi there, I'm Justin Smith! 👋
+
+## 🙋‍♂️ About Me
+I'm a web developer enrolled in the **GetBuilding** program, transitioning from being self-taught to becoming a skillfully crafted professional. I'm passionate about building technology that creates impactful solutions in the non-profit sector and bridges connections between technology, nature, and people.
+
+## 🌱 Currently Working On
+- **📅 MarkIT**: An event space management tool built with React, TypeScript, and Node.js. Currently developing the backend to enhance functionality, data management, and scalability.
+
+- **🦋 Enhancement of SpeciesFinder**: Collaborating with a **group** of developers to refactor and redesign **SpeciesFinder**  for Manuels River using React, TailwindCSS, and TypeScript. The project will relaunch in multiple phases:
+  - **Phase 1** 🛠️: Relaunch with a redesigned front end.
+  - **Phase 2** 🔐: Integrate a backend and database with login capabilities.
+  - **Phase 3** 🌎: Expand to a citizen science project, allowing users to submit findings to be included in the app.
+  - **Phase 4** 🌲: Grow from a single-organization tool to a regional platform that supports multiple trails, nature centers, and sites.
+ 
+- **🌊 Manuels River Interactive Tour**: Developing an interactive tour application for Manuels River, featuring points of interest along the river trail. The app will include:
+  - A rustic map for exploring and discovering unique sites, stories, natural wonders, and the beauty of nature along the riverside of Manuels River.
+  - Interactive icons marking primary and secondary points of interest.
+  - Pop-up modals with images, audio, and descriptions for each primary POI.
+  - Full map view, an about section, and adventures along both Canyon Trail and Ocean Trail along Manuels River.
+
+
+## 🚀 Projects
+- [**MarkIT**](https://github.com/JustinDotRocks/MarkIT-V1.1) - An event space management tool utilizing React and TypeScript for dynamic, type-safe user interfaces. [**Try MarkIT**](https://justindotrocks.github.io/MarkIT-V1.1/)
+- [**SpeciesFinder**](https://github.com/JustinDotRocks/SpeciesFinder) - An interactive web application built with JavaScript and Tailwind CSS to explore different species. [**Use SpeciesFinder**](https://justindotrocks.github.io/SpeciesFinder/#)
+- [**SMU Digital Campus**](https://smu-phase-1-tpg.onrender.com/) - An interactive campus map for Saint Mary’s University, providing details for all buildings, parking lots, and accessibility features.
+
+
+## 🛠️ Languages & Tools
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled--Components-DB7093?logo=styled-components&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+## 📫 Reach Out At
+- 📧 Email: [justindotrocks@gmail.com](mailto:justindotrocks@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/justinfsmith0](https://www.linkedin.com/in/justinfsmith0/)
+
+## 📊 GitHub Stats
+![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=justindotrocks&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justindotrocks&layout=compact&theme=default)
+
 <!--
 **JustinDotRocks/JustinDotRocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
-## Learning Resources and Courses 📚
-
-Key: 
-
-✅ ==> Completed
-
-💻 ==> Current
-
-⏰ ==> Planned For Later
-
-| **Status** | **Year** | **Course**                                                                                                                                                                                            | Notebook                                                                                          | **Author**                                               | **Provider** |
-|------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------|
-| 💻         | 2024     | [GetCoding](https://www.getcoding.ca/)                                                                                          | [📔 ](<>)                                            |  Jan Mertlik &  Sahand Seifi                                              | GetCoding  |
-| ⏰         | 2023     | [Complete React Native in 2023: Zero to Mastery (with Hooks)](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/)                                                                                          | [📔 ](<>)                                            | Andrei Neagoie &  Mo Binni                                              | Udemy  |
-| ⏰          | ?     | [?](?)                                                       |                                                                                                   |?                                          | ?  |
-| ⏰          | ?     | [?](?)                                     |                                                                                                   |?                                              | ?  |
-| ✅          | 2022     | [React with TypeScript Crash Course](https://www.youtube.com/watch?v=jrKcJxF0lAU)                                                       | [📔 ](<>) | Laith Academy                                         | YouTube  |
-| ✅          | 2022     | [Learn GraphQL in 4 Hours - From Beginner to Expert](https://www.youtube.com/watch?v=yqWzCV0kU_c&t=12005s)                                                                                         | [📔 ](<>)                   | PedroTech                                          | YouTube  |
-| ✅          | 2022     | [React With GraphQL (Apollo Client) Crash Course](https://www.youtube.com/watch?v=gAbIQx26wSI)                                                                               |                                                                                                   | Laith Academy        | YouTube  |
-| ✅          | 2022    | [SQL Crash Course - Learn Raw SQL for Beginners](https://www.youtube.com/watch?v=6838VBt6HmQ)                      |                                                                                                   |  Laith Academy                                           | YouTube  |
-| ✅          | 2022     | [SQL Tutorial for Beginners](https://www.youtube.com/watch?v=tp_5c6jaNQE)                                                           |                                                                                                   | Ben Awad                                               | YouTube  |
-| ✅          | 2022     | [Build A Realtime Chat App In ReactJS and NodeJS Socket.io Tutorial](https://www.youtube.com/watch?v=NU-HfZY3ATQ)                                                                                 |                                                                                                   |  PedroTech                                            | YouTube  |
-| ✅          | 2022    | [Async Javascript Tutorial For Beginners (Callbacks, Promises, Async Await).](https://www.youtube.com/watch?v=_8gHHBlbziw)                                                                                   |                                                                                                   | developedByed                                               | YouTube  |
-| ✅          | 2022    | [React with Redux Toolkit Crash Course](https://www.youtube.com/watch?v=jR4fagDcvrc) |                                                                                                   |Laith Academy                                          | YouTube  |
-| ✅          | 2022    | [The Complete Digital Marketing Course - 12 Courses in 1](https://www.udemy.com/course/learn-digital-marketing-course/)                                                                                                                                                                   |                                                                                                   | Rob Percival & Daragh Walsh                                               | Udemy  |
-| ✅          | 2022   | [React Redux (with Hooks) Crash Course](https://www.youtube.com/watch?v=9jULHSe41ls)                                               |                                                                                                   | Laith Academy                                         | YouTube  |
-| ✅          | 2021     | [Create a WordPress Website for Your Web Design Business](https://www.udemy.com/course/create-wordpress-website-for-your-web-design-business/)                                                                                                     |                                                                                                   | Christine Maisel                                        | Udemy        |
-| ✅          | 2021     | [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2)                                                                                           |                                                                                                   | Andrew Mead & Rob Percival                                              | Udemy  |
-| ✅          | 2021   | [The Complete React Developer Course (w/ Hooks and Redux)](https://www.udemy.com/course/react-2nd-edition/)                                                                |                                                                                                   | Adnrew Mead                                         | Udemy  |
-| ✅          | 2021     | [Getting Started with Git 2](https://app.pluralsight.com/library/courses/getting-started-git/table-of-contents)                                                                               |                                                                                                   | Aaron Stewart                                               | Pluralsight  |
-| ✅          | 2021     | [React: The Big Picture](https://app.pluralsight.com/library/courses/react-big-picture/table-of-contents)                                                                                                  |                                                                                                   | Cory House                                         | Pluralsight  |
-| ✅          | 2021     | [Google Cloud Platform Fundamentals - Core Infrastructure](https://app.pluralsight.com/library/courses/google-cloud-platform-fundamentals-core-infrastructure/table-of-contents)                                                                                                              |                                                                                                   | Google Cloud                                             | Pluralsight  |
-| ✅          | 2021     | [Responsive design made easy](https://www.youtube.com/watch?v=bn-DQCifeQQ)                                                                       |                                                                                                   | Kevin Powell                                               | YouTube  |
-| ✅          | 2021     | [Fullstack React GraphQL TypeScript Tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8)                                                                                     |                                                                                                   | Ben Awad | YouTube        |
-| ✅          | 2021    | [TypeORM Crash Course - TypeScript & Node ORM](https://www.youtube.com/watch?v=JaTbzPcyiOE)                                                           |                                                                                                   | Laith Academy                                              | YouTube  |
-| ✅          | 2021   | [TypeScript Crash Course](https://www.youtube.com/watch?v=u3L_82m5X-M)                                                                                |                                                                                                   | Laith Academy                                              | YouTube  |
-| ✅          | 2021   |  [Redis with Node Crash Course - Cache Data for Improved Performance](https://www.youtube.com/watch?v=AzQ6_DTcG6c)                                                                                                                                                                                       |                                                                                                   | Laith Academy                                           | YouTube  |
-| ✅          | 2021  | [How To Make a WordPress Website 2021 Divi Theme Tutorial 🔥🔥](https://www.youtube.com/watch?v=RvehqgXKvmM)                                                                                                                                                                                                                                  |             | Darrel Wilson                             | YouTube        |
-| ✅          | 2021     | [Let's build SLACK 2.0 with REACT.JS! (REDUX, Styled components & Firebase Hooks)](https://www.youtube.com/watch?v=QiTq5WrWoJw)                                                          |                                                                                                   | Sonny Sangha                                            | YouTube  |
-| ✅          | 2021    | [Postman Beginner's Course - API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4)                                                                                                      |                                                                                                   | freeCodeCamp.org                                            | YouTube  |
-| ✅          | 2020    | [React Website Using Styled Components - Beginner React JS Project Fully Responsive](https://www.youtube.com/watch?v=iP_HqoCuRI0)                                                                                             |                                                                                                   | Brian Design                                         | YouTube  |
-| ✅          | 2020   | [Build A Todo App With REACT React Project For Beginners (FULL).](https://www.youtube.com/watch?v=pCA4qpQDZD8)                                       |                                                                                                   | developedbyed                                            | YouTube  |
-| ✅          | 2020    | [🔴 Let's Build a TINDER Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=DQfeB_FKKkc)                                                                                                        |                                                                                                   | Clever Programmer                                         | YouTube  |
-| ✅          | 2020   | [Google Cloud Platform Tutorial  Google Cloud Platform Tutorial For Beginners Simplilearn](https://www.youtube.com/watch?v=vACTtmLWiQY)                                                                 |                                                                                                   | Simplilearn                  | YouTube  |
-| ✅          | 2020   | [React 16 Fundamentals](https://app.pluralsight.com/library/courses/react-fundamentals-update/table-of-contents)                                                                         |                                                                                                   | Liam McLennan                                      | Pluralsight  |
-| ✅          | 2020    | [Node.js 12: The Big Picture](https://app.pluralsight.com/library/courses/nodejs-big-picture/table-of-contents)                                                                                               |                                                                                                   | Paul O'Fallon                                        | Pluralsight  |
-| ✅          | 2020   | [Javascript Essentials](https://www.udemy.com/course/javascript-essentials)                                                      |                                                                                                   | Lawrence Turton                                    | Udemy  |
-| ✅          | 2020   | [JavaScript Best Practices](https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-contents)                                                                             |                                                                                                   | Jonathan Mills                                         | Pluralsight  |
-| ✅          | 2020 | [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass)                                                                                |                                                                                                   | Jonas Schmedtmann                                             | Udemy  |
-| ✅          | 2020  | [CSS Positioning](https://app.pluralsight.com/library/courses/css-positioning-1834/table-of-contents)                                                                                    |                                                                                                   | Susan Simkins                                                | Pluralsight  |
-| ✅          | 2020     | [HTML, CSS, and JavaScript: The Big Picture](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture/table-of-contents)                                                                                      |                                                                                                   | Barry Luijbregts                                   | Pluralsight  |
-| ✅          | 2020  | [HTML5 Fundamentals](https://app.pluralsight.com/library/courses/html5-fundamentals/table-of-contents)                                                                                       |                                                                                                   | Craig Shoemaker                                            | Pluralsight  |
-| ✅          | 2020   | [Programming 101 ](https://www.udemy.com/course/programming-101/)                                               |                                                                                                   | Lawrence Turton                                        | Udemy  |
-| ✅          | 2020   | [Introduction to Web Development](https://app.pluralsight.com/library/courses/web-development-intro/table-of-contents)                                                                                                |                                                                                                   |  Brian Holt & Nina Zakharenko                                      | Pluralsight  |
-| ✅          | 2019   | [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)                                               |                                                                                                   |freeCodeCamp.org                                             | YouTube  |
