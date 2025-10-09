@@ -10,6 +10,7 @@ Staff Management & Scheduling Platform - Phase 1 Development
 Building an intelligent staff scheduling application that bridges the gap between AI automation and human expertise. RosterAI enables true AI human collaboration where managers refine AI generated schedules in real time, with the system continuously learning from each adjustment.
 
 Tech Stack: React Native • AWS • TypeScript
+
 Tagline: Roster. Revise. Refine.
 
 Current Development Focus:
