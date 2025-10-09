@@ -1,23 +1,33 @@
 # Hi there, I'm Justin Smith! 👋
 
 ## 🙋‍♂️ About Me
-I'm a web developer enrolled in the **GetBuilding** program, transitioning from being self-taught to becoming a skillfully crafted professional. I'm passionate about building technology that creates impactful solutions in the non-profit sector and bridges connections between technology, nature, and people.
+I'm a software developer who has recently finished the **GetBuilding** program, transitioning from being self-taught to becoming a skillfully crafted professional. I'm passionate about building technology that creates solutions in the non-profit sector and bridges connections between technology, nature, and people.
 
-## 🌱 Currently Working On
-- **📅 MarkIT**: An event space management tool built with React, TypeScript, and Node.js. Currently developing the backend to enhance functionality, data management, and scalability.
+🚀 Currently Working On: RosterAI
 
-- **🦋 Enhancement of SpeciesFinder**: Collaborating with a **group** of developers to refactor and redesign **SpeciesFinder**  for Manuels River using React, TailwindCSS, and TypeScript. The project will relaunch in multiple phases:
-  - **Phase 1** 🛠️: Relaunch with a redesigned front end.
-  - **Phase 2** 🔐: Integrate a backend and database with login capabilities.
-  - **Phase 3** 🌎: Expand to a citizen science project, allowing users to submit findings to be included in the app.
-  - **Phase 4** 🌲: Grow from a single-organization tool to a regional platform that supports multiple trails, nature centers, and sites.
- 
-- **🌊 Manuels River Interactive Tour**: Developing an interactive tour application for Manuels River, featuring points of interest along the river trail. The app will include:
-  - A rustic map for exploring and discovering unique sites, stories, natural wonders, and the beauty of nature along the riverside of Manuels River.
-  - Interactive icons marking primary and secondary points of interest.
-  - Pop-up modals with images, audio, and descriptions for each primary POI.
-  - Full map view, an about section, and adventures along both Canyon Trail and Ocean Trail along Manuels River.
+Staff Management & Scheduling Platform - Phase 1 Development
 
+Building an intelligent staff scheduling application that bridges the gap between AI automation and human expertise. RosterAI enables true AI human collaboration where managers refine AI generated schedules in real time, with the system continuously learning from each adjustment.
+
+Tech Stack: React Native • AWS • TypeScript
+Tagline: Roster. Revise. Refine.
+
+Current Development Focus:
+- 🏗️ Infrastructure & Permissions: Role based access control (Admin/Manager/Employee)
+- 🏢 Core Management: Organizations, departments, user profiles 
+- 📋 Basic Scheduling: Shift creation and list displays
+- 🔄 Modular Architecture: Component extraction and hook based state management
+- 📱 Cross platform mobile and web deployment
+
+Upcoming Features:
+- 📅 Interactive drag and drop calendar interface
+- 💬 Messaging system and budgeting tools
+- 🏷️ Employee tagging and skill management
+- 🤖 AI integration for intelligent schedule suggestions
+
+Vision: Transform scheduling from a time consuming chore into a strategic advantage through collaborative AI that learns your business rhythms and continuously improves with manager input.
+
+Built in Newfoundland for businesses facing real scheduling challenges.
 
 ## 🚀 Projects
 - [**MarkIT**](https://github.com/JustinDotRocks/MarkIT-V1.1) - An event space management tool utilizing React and TypeScript for dynamic, type-safe user interfaces. [**Try MarkIT**](https://justindotrocks.github.io/MarkIT-V1.1/)
